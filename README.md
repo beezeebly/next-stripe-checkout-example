@@ -1,0 +1,2 @@
+# How to integrate Stripe Checkout with Next.js
+This repository accompanies the blog post [Using the new Stripe Checkout in Next.js – An SSR example](https://www.serverlesstribe.com/using-the-new-stripe-checkout-in-next-js-ssr)
